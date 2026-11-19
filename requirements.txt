@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+scikit-optimize
+bayesian-optimization
+xgboost
+optuna
+optuna-integration
+tensorflow
+torch
+jupyter

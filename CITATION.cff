@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Code and data for: Predicting Daily Atmospheric CO2 at Mauna Loa and Barrow: Trend-Aware Preprocessing and Chronological Validation"
+type: software
+authors:
+  - family-names: Patidar
+    given-names: Manoj
+  - family-names: Patidar
+    given-names: Sanjay
+license: MIT
+repository-code: "https://github.com/<GITHUB-USERNAME>/co2-dtsq-optuna"
+# After the Zenodo release is created, add:  doi: 10.5281/zenodo.XXXXXXX
+version: "1.0.0"
+date-released: "2026-11-19"
+keywords:
+  - atmospheric CO2
+  - Mauna Loa
+  - Barrow
+  - time series
+  - detrending
+  - Optuna
+  - LSTM
