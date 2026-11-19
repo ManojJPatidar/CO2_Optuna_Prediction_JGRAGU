@@ -8,7 +8,7 @@ authors:
   - family-names: Patidar
     given-names: Sanjay
 license: MIT
-repository-code: "https://github.com/<GITHUB-USERNAME>/co2-dtsq-optuna"
+repository-code: "https://github.com/ManojJPatidar/CO2_Optuna_Prediction_JGRAGU.git"
 # After the Zenodo release is created, add:  doi: 10.5281/zenodo.XXXXXXX
 version: "1.0.0"
 date-released: "2026-11-19"
